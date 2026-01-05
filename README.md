@@ -1,15 +1,15 @@
-# 📊 Netflix Content Analysis - Exploratory Data Analysis
+# Netflix Content Analysis - Exploratory Data Analysis
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green.svg)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange.svg)
 ![Status](https://img.shields.io/badge/Status-Complete-success.svg)
 
-## 🎯 Project Overview
+## Project Overview
 
 An in-depth exploratory data analysis of Netflix's content catalog, examining **8,807 movies and TV shows** to uncover insights about content trends, genre preferences, geographic production patterns, and viewing characteristics. This project demonstrates data cleaning, statistical analysis, and visualization techniques using Python.
 
-## 📌 Key Findings
+## Key Findings
 
 - **Content Split**: Netflix's library consists of **69.6% Movies** and **30.4% TV Shows**
 - **Peak Growth**: Content additions peaked in **2019** with significant growth in the streaming wars era
@@ -18,7 +18,7 @@ An in-depth exploratory data analysis of Netflix's content catalog, examining **
 - **Content Ratings**: TV-MA and TV-14 are the most common ratings, indicating mature content focus
 - **Movie Duration**: Average movie length is **99 minutes** with most TV shows having **1 season**
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Python 3.8+**
 - **Pandas** - Data manipulation and analysis
@@ -27,30 +27,7 @@ An in-depth exploratory data analysis of Netflix's content catalog, examining **
 - **Seaborn** - Statistical visualizations
 - **Jupyter Notebook** - Interactive development environment
 
-## 📁 Project Structure
-
-```
-netflix-eda-project/
-│
-├── data/
-│   └── netflix_titles.csv          # Dataset (8,807 titles)
-│
-├── notebooks/
-│   └── netflix_content_analysis.ipynb  # Main analysis notebook
-│
-├── images/                          # Generated visualizations
-│   ├── content_type_distribution.png
-│   ├── yearly_content_trend.png
-│   ├── top_countries.png
-│   ├── content_ratings.png
-│   ├── top_genres.png
-│   └── ... (additional charts)
-│
-├── requirements.txt                 # Python dependencies
-└── README.md                        # Project documentation
-```
-
-## 📊 Analysis Sections
+## Analysis Sections
 
 1. **Data Understanding & Exploration**
    - Dataset overview and structure
@@ -99,7 +76,7 @@ netflix-eda-project/
     - Most prolific directors
     - Frequently featured actors
 
-## 📈 Sample Visualizations
+## Sample Visualizations
 
 The project includes 12+ professional visualizations including:
 - Content type pie charts and bar plots
@@ -109,38 +86,8 @@ The project includes 12+ professional visualizations including:
 - Duration distributions and box plots
 - Rating breakdowns by content type
 
-## 🚀 Getting Started
 
-### Prerequisites
-
-```bash
-Python 3.8 or higher
-pip (Python package manager)
-```
-
-### Installation
-
-1. **Clone this repository**
-   ```bash
-   git clone https://github.com/yourusername/netflix-eda-project.git
-   cd netflix-eda-project
-   ```
-
-2. **Install required packages**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Launch Jupyter Notebook**
-   ```bash
-   jupyter notebook notebooks/netflix_content_analysis.ipynb
-   ```
-
-4. **Run all cells**
-   - Execute cells sequentially to reproduce the analysis
-   - Visualizations will be saved in the `images/` folder
-
-## 📊 Dataset Information
+## Dataset Information
 
 **Source**: Netflix Movies and TV Shows Dataset  
 **Records**: 8,807 titles  
@@ -158,7 +105,7 @@ pip (Python package manager)
 - Country: 9.4%
 - Date Added: 0.1%
 
-## 💡 Key Insights for Business
+## Key Insights for Business
 
 1. **Content Strategy**: Netflix focuses heavily on TV-MA content, targeting mature audiences
 2. **International Expansion**: Strong presence in US, India, UK markets with localized content
@@ -166,36 +113,18 @@ pip (Python package manager)
 4. **Genre Diversification**: Wide genre coverage with emphasis on Dramas and International content
 5. **Production Efficiency**: Most TV shows are single-season, indicating experimental approach
 
-## 🔮 Future Enhancements
+##  Author
 
-- Sentiment analysis on descriptions
-- Machine learning models for content recommendation
-- Network analysis of actor-director collaborations
-- Time series forecasting for content additions
-- Comparative analysis with competitor platforms
-
-## 👩‍💻 Author
-
-**Meghana Reddy Guntupalli**  
+**Meghana P S**  
 IT Service Delivery Analyst | Data Enthusiast  
-
-- **LinkedIn**: [linkedin.com/in/meghana-reddy](#)
-- **Email**: meghana.reddy@example.com
 - **Location**: Dubai, UAE
 
-## 📝 License
 
-This project is open source and available for educational purposes.
-
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Dataset sourced from publicly available Netflix data
-- Inspired by data analytics community best practices
-- Built as part of portfolio development for data analyst roles
 
 ---
-
-⭐ **If you found this project helpful, please consider giving it a star!**
 
 ---
 
