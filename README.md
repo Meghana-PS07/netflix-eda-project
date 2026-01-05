@@ -54,18 +54,15 @@ An in-depth exploratory data analysis of Netflix's content catalog, examining **
 
 6. **Content Ratings Analysis**
    - Rating distribution and trends
-   - Age-appropriate content mix
    - Rating by content type
 
 7. **Genre Analysis**
    - Most popular genres
-   - Genre combinations
    - Content diversity
 
 8. **Duration Analysis**
    - Movie length distribution
    - TV show season patterns
-   - Content consumption insights
 
 9. **Release Year Trends**
    - Content by decade
@@ -80,7 +77,7 @@ An in-depth exploratory data analysis of Netflix's content catalog, examining **
 The project includes 12+ professional visualizations including:
 - Content type pie charts and bar plots
 - Time series trends of content additions
-- Geographic heat maps and country rankings
+- Geographic rankings
 - Genre popularity analysis
 - Duration distributions and box plots
 - Rating breakdowns by content type
