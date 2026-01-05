@@ -51,7 +51,6 @@ An in-depth exploratory data analysis of Netflix's content catalog, examining **
 5. **Geographic Distribution**
    - Top content-producing countries
    - Regional content preferences
-   - International vs domestic content
 
 6. **Content Ratings Analysis**
    - Rating distribution and trends
